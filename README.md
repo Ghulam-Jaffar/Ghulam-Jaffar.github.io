@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghulam Jaffar</h1>
 <h3 align="center">A software engineer with a passion for creating beautiful and intuitive user experiences.</h3>
 
-- 🔭 I’m currently working on [Content Studio](https://app.contentstudio.io/)
+- 🔭 I’m currently working on [Content Studio](https://contentstudio.io/)
 
 - 📫 How to reach me **ghulam.jaffar@d4interactive.io**
 
